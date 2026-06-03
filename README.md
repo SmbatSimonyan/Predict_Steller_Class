@@ -22,6 +22,7 @@ The project includes:
 **Competition:** Playground Series - Season 6, Episode 6
 
 **Kaggle Link:** https://www.kaggle.com/competitions/playground-series-s6e6
+<img width="1569" height="722" alt="image" src="https://github.com/user-attachments/assets/3d32ceba-7eaa-4864-828d-875d0f87d621" />
 
 ---
 
